@@ -1,0 +1,11 @@
+{
+    "name": "Add Bookmark",
+    "version": "1.0",
+    "description": "Insert a bookmark from above",
+    "permissions": ["bookmarks"],
+    "background": {
+      "scripts": ["background.js"],
+      "persistent": false
+    },
+    "manifest_version": 2
+}
